@@ -5,6 +5,6 @@ three.js kütüphanesinden faydalanılmıştır.
 
 Faydalı olması açısından paylaşılmıştır.
 
-Gerekli bilgileri https://emregeldegul.net/ adresinden öğrenbilirsiniz.
+Gerekli bilgileri https://emregeldegul.net/ adresinden öğrenebilirsiniz.
 
 © Coded By İbrahimUsta™
