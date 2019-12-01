@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+html, body{
+  height: 70%;
+  font-weight: 500;
+}
+
+body{
+  background: #030321;
+  font-family: Arial;
+  text-align: center;
+}

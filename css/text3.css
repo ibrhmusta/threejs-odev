@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+html, body{
+  height: 70%;
+  font-weight: 500;
+}
+
+body{
+  background:#1E1E1E;
+  font-family: Arial;
+  text-align: center;
+}
+#btn3
+{
+width: 50em;
+font: medium/120% Arial;
+border:solid 8px silver;
+background-color:solid 4px darkgray;
+width:200px;
+height:100px;
+border-radius:70px;
+}
