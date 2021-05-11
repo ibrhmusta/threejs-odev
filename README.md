@@ -5,6 +5,6 @@ three.js kütüphanesinden faydalanılmıştır.
 
 Faydalı olması açısından paylaşılmıştır.
 
-Gerekli bilgileri https://emregeldegul.net/ adresinden öğrenebilirsiniz.
+Gerekli bilgileri ibrhmusta99@gmail adresine e posta atarak öğrenebilirsiniz.
 
-© Coded By İbrahimUsta™
+© Coded By Casper™
